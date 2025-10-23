@@ -38,6 +38,8 @@ Key Influencers & Decomposition – Root cause and drill-down analytics
 
 Smart Narrative – Automated executive summary
 
+Preview: 
+
 🛠 Tools & Tech
 
 Power BI Desktop, DAX, Power Query (M), Power BI Service, DAX Studio, SharePoint
