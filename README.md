@@ -41,3 +41,12 @@ Smart Narrative – Automated executive summary
 🛠 Tools & Tech
 
 Power BI Desktop, DAX, Power Query (M), Power BI Service, DAX Studio, SharePoint
+
+
+Business Impact
+
+Enabled 360° view of company sales and profitability
+
+Reduced manual reporting time by 40%
+
+Revealed revenue drivers and discounting impact via AI visualizations
