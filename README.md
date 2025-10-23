@@ -41,6 +41,10 @@ Smart Narrative – Automated executive summary
 Preview: 
 ![WhatsApp Image 2025-10-22 at 9 55 58 PM](https://github.com/user-attachments/assets/bc653b40-2474-4ad9-bb02-32ce680973ca)
 
+![WhatsApp Image 2025-10-22 at 9 56 41 PM](https://github.com/user-attachments/assets/e643927e-ebe6-4ca3-a8c7-39c43c11d884)
+
+![WhatsApp Image 2025-10-22 at 9 57 23 PM](https://github.com/user-attachments/assets/36b94a8d-e53e-4d70-89a9-9ba27452dd1d)
+
 
 🛠 Tools & Tech
 
