@@ -39,6 +39,8 @@ Key Influencers & Decomposition – Root cause and drill-down analytics
 Smart Narrative – Automated executive summary
 
 Preview: 
+![WhatsApp Image 2025-10-22 at 9 55 58 PM](https://github.com/user-attachments/assets/bc653b40-2474-4ad9-bb02-32ce680973ca)
+
 
 🛠 Tools & Tech
 
